@@ -1,19 +1,31 @@
 [![Linkedin: alexander-odorico](https://img.shields.io/badge/-alexander--odorico-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-odorico/)](https://www.linkedin.com/in/alexander-odorico/)
+# Hello, I'm Alex 
 
-### Hi there 
-I am in my third year of studies at **York University** majoring in **Computer Science**.
+I am in my third year of studies at **York University**, majoring in **Computer Science**.
 
-Some things about me
+My favourite study topic is **Data Structures and Algorithms**.
+
+## Skills
+
+- 💻 **Languages:** `C/C++, Python, JavaScript, Java, Kotlin, HTML/CSS, SQL, GraphQL, Bash`
+- ⚛ **Frameworks:** `Node.js, React, JUnit, Bootstrap`
+  
+## Some things about me
+
 - 📚 I enjoy collecting Computer Science books. Here are some favourites of mine:
-  - Introduction to Algorithms Third Edition
-    > 
-  - The C Programming Language Second Edition
-    >
-  - Introduction to The Theory of Computation Third Edition
-    >
-  - Eloquent JavaScript Second Edition
-    >
 
+  - ***Introduction to Algorithms, Third Edition***
+    >  Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
+  - ***The C Programming Language, Second Edition***
+    > Brian Kernighan, Dennis Ritchie
+  - ***Introduction to The Theory of Computation, Third Edition***
+    > Michael Sipser
+  - ***Eloquent JavaScript, Third Edition***
+    > Marijn Haverbeke
+
+## Contact
+
+You can reach me at [ao11@my.yorku.ca](mailto:ao11@my.yorku.ca?subject=[GitHub]). Thank you for your interest.
 <!--
 **Alex7D3/Alex7D3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
