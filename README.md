@@ -1,4 +1,5 @@
 [![Linkedin: alexander-odorico](https://img.shields.io/badge/-alexander--odorico-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-odorico/)](https://www.linkedin.com/in/alexander-odorico/)
+[![](https://img.shields.io/badge/🌐%20portfolio-green?style=flat-square%messsage=)](https://alex7d3.github.io/)
 # Hello, I'm Alex 
 
 I am in my third year of studies at **York University**, majoring in **Computer Science**.
