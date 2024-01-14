@@ -6,9 +6,11 @@ I am in my third year of studies at **York University**, majoring in **Computer 
 
 My favourite study topic is **Data Structures and Algorithms**.
 
+Lately I've been learning about **Compilers/Interpreters** and **Data Science**.
+
 ## Skills
 
-- 💻 **Languages:** `C/C++, Python, JavaScript, Java, Kotlin, HTML/CSS, SQL, GraphQL, Bash`
+- 💻 **Languages:** `C/C++, Python, JavaScript, Java, Kotlin, HTML/CSS, SQL, Bash`
 - ⚛ **Frameworks:** `Node.js, React, JUnit, Bootstrap`
   
 ## Some things about me
