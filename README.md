@@ -11,7 +11,7 @@ Lately I've been learning about **Compilers/Interpreters** and **Operating Syste
 ## Skills
 
 - 💻 **Languages:** `C/C++, C#, Java, Python, JavaScript/TypeScript, HTML/CSS, Bash`
--  **Databases:** `MySQL, PostgreSQL, Redis, MongoDB`
+- 💾 **Databases:** `MySQL, PostgreSQL, Redis, MongoDB`
 - ⚛ **Frameworks:** `: React, Angular, Node.js, Express.js, Spring, Flask, Bootstrap, JUnit`
   
 ## Some things about me
