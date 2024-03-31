@@ -6,7 +6,7 @@ I am in my third year of studies at **York University**, majoring in **Computer 
 
 My favourite study topic is **Data Structures and Algorithms**.
 
-Lately I've been learning about **Compilers/Interpreters** a**.
+Lately I've been learning about **Compilers/Interpreters** and **Operating Systems**.
 
 ## Skills
 
