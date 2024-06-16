@@ -4,15 +4,16 @@
 
 I am in my third year of studies at **York University**, majoring in **Computer Science**.
 
-My favourite study topic is **Data Structures and Algorithms**.
+My favourite area of study is **Data Structures and Algorithms**.
 
 Lately I've been learning about **Compilers/Interpreters** and **Operating Systems**.
 
 ## Skills
 
-- 💻 **Languages:** `C/C++, C#, Java, Python, JavaScript/TypeScript, HTML/CSS, Bash`
+- 💻 **Languages:** `C/C++, C#, Java, Python, JavaScript, TypeScript, HTML/CSS, Bash`
 - 💾 **Databases:** `MySQL, PostgreSQL, Redis, MongoDB`
-- ⚛ **Frameworks:** `: React, Angular, Node.js, Express.js, Spring, Flask, Bootstrap, JUnit`
+- ⚛ **Frameworks:** `React, Node.js, Express.js, Spring, Flask, Bootstrap, JUnit`
+- 🧰 **Developer Tools:** `Git, Linux, Windows, Maven, Gradle, AWS, Azure, Docker, Postman`
   
 ## Some things about me
 
