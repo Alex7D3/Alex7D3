@@ -10,9 +10,9 @@ Lately I've been learning about **Compilers/Interpreters** and **Operating Syste
 
 ## Skills
 
-- 💻 **Languages:** C/C++, C#, Java, Python, JavaScript, TypeScript, HTML/CSS, Bash
-- 💾 **Databases:** MySQL, PostgreSQL, Redis, MongoDB
+- 💻 **Languages:** Java, JavaScript, TypeScript, Python, C, C++, C#, HTML, CSS, Bash
 - ⚛ **Frameworks:** React, Node.js, Express.js, Spring, Flask, Bootstrap, JUnit
+- 💾 **Databases:** MySQL, PostgreSQL, Redis, MongoDB
 - 🧰 **Developer Tools:** Git, Linux, Windows, Maven, Gradle, AWS, Azure, Docker, Postman
   
 ## Some things about me
